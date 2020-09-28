@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">navicotest</string>
+	<string name="refresh_data_button">Load Data</string>
+	<string name="recycler_item_avatar_content_description">User Avatar</string>
+	<string name="recycler_item_username">User: %1$s</string>
+	<string name="recycler_item_commits">Commits: %1$d</string>
+</resources>
